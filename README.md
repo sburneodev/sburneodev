@@ -62,7 +62,5 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sburneodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sburneodev&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sburneodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/sburneodev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sburneodev&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/sburneodev)
