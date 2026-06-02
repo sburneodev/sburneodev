@@ -5,21 +5,22 @@
   <a href="mailto:burneo.reyes.sebastian@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
-  <a href="https://www.linkedin.com/in/sebastian-israel-burneo-reyes/">
+  <!-- 💡 Descomenta y añade tu enlace a LinkedIn aquí abajo -->
+  <!--
+  <a href="TU_LINK_DE_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  -->
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **NEXUS**
-- 🌱 I’m currently expanding my knowledge in **Backend Architecture & Multiplatform Development**
-- 👯 I’m looking to collaborate on **Open Source backend projects**
-- ⚡ Fun fact: **I love the quiet logic of backend architecture, but I still fight with CSS when needed.**
+- ⚙️ **Building:** **NEXUS**, an ACID-compliant inventory management system with AI integration.
+- 🌱 **Mastering:** Backend Architecture, Multiplatform Development, and CI/CD pipelines.
+- 🤝 **Seeking:** Open Source backend projects to contribute my skills and collaborate.
+- ⚡ **Fun fact:** I thrive on the pure logic of backend architecture, but I fearlessly tackle CSS when necessary.
 
 ---
 
