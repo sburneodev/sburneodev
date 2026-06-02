@@ -2,18 +2,14 @@
 <h3 align="center">Backend Developer & Multiplatform App Dev Student from Spain 🇪🇸</h3>
 
 <p align="center">
-  <a href="https://www.topcoder.com/members/45217" target="_blank">
-    <img src="https://img.shields.io/badge/Topcoder-000000?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder" />
-  </a>
   <a href="mailto:burneo.reyes.sebastian@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- 💡 Descomenta y añade tu enlace a LinkedIn aquí abajo -->
-  <!--
-  <a href="TU_LINK_DE_LINKEDIN_AQUI" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/sebastian-israel-burneo-reyes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  -->
+
 </p>
 
 ---
